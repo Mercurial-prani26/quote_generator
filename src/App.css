@@ -7,7 +7,7 @@
 
 .app{
     height: 100%;
-    background: linear-gardient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)url('./images/arrow5.jpg')) no-repeat;
+    background-image: url('./images/arrow5.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
